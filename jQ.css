@@ -78,6 +78,13 @@ body {
 
 }
 
+.about-me-blurb {
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  margin-top: 40px;
+}
+
 h1 {
   text-align: center;
   margin-top: 155px;
