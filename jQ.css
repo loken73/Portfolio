@@ -63,8 +63,17 @@ body {
   padding: 0;
 }
 
-.picture-div, .headshot {
+.picture-div {
+  margin-top: calc(100vh/2 - 125px);
+}
 
+.headshot {
+  height: 250px;
+  width: 250px;
+  background-color: black;
+  margin: auto;
+  border-radius: 50%;
+  
 }
 
 h1 {
