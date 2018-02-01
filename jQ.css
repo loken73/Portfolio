@@ -64,16 +64,18 @@ body {
 }
 
 .picture-div {
-  margin-top: calc(100vh/2 - 125px);
+  margin-top: calc(100vh/2 - 150px);
 }
 
 .headshot {
-  height: 250px;
-  width: 250px;
-  background-color: black;
+  height: 300px;
+  width: 300px;
+  background: url('images/face.jpeg') center no-repeat;
+  /*background-color: black;*/
+  background-size: cover;
   margin: auto;
-  border-radius: 50%;
-  
+  border-radius: 40%;
+
 }
 
 h1 {
