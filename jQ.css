@@ -58,6 +58,11 @@ body {
   color: #868686;
 }
 
+.container .left-half-div {
+  width: 50%;
+  height: 100vh
+}
+
 h1 {
   text-align: center;
   margin-top: 155px;
