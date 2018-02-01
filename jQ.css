@@ -59,8 +59,12 @@ body {
 }
 
 .container .left-half-div {
-  width: 50%;
-  height: 100vh
+  height: 100vh;
+  padding: 0;
+}
+
+.picture-div, .headshot {
+
 }
 
 h1 {
